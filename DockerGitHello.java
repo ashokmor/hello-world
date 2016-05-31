@@ -5,6 +5,7 @@ public class DockerGitHello {
     System.out.println("Hello from Docker, Github and CI autobuild !!!");
     System.out.println("...............");
     System.out.println("........Time: "+ (new java.util.Date()));
+    System.out.println(".......This time with Mihir........");    
     System.out.println("....By Ashok Mor....");
   }
 }
